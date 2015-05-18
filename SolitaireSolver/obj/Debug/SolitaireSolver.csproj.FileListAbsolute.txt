@@ -1,0 +1,6 @@
+c:\users\shawn\google drive\visual studio 2013\Projects\SolitaireSolver\SolitaireSolver\bin\Debug\SolitaireSolver.exe.config
+c:\users\shawn\google drive\visual studio 2013\Projects\SolitaireSolver\SolitaireSolver\obj\Debug\SolitaireSolver.csprojResolveAssemblyReference.cache
+c:\users\shawn\google drive\visual studio 2013\Projects\SolitaireSolver\SolitaireSolver\bin\Debug\SolitaireSolver.exe
+c:\users\shawn\google drive\visual studio 2013\Projects\SolitaireSolver\SolitaireSolver\bin\Debug\SolitaireSolver.pdb
+c:\users\shawn\google drive\visual studio 2013\Projects\SolitaireSolver\SolitaireSolver\obj\Debug\SolitaireSolver.exe
+c:\users\shawn\google drive\visual studio 2013\Projects\SolitaireSolver\SolitaireSolver\obj\Debug\SolitaireSolver.pdb
