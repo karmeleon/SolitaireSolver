@@ -9,3 +9,6 @@ c:\users\shawn\google drive\visual studio 2013\Projects\SolitaireSolver\Solitair
 c:\users\shawn\google drive\visual studio 2013\Projects\SolitaireSolver\SolitaireSolver\obj\x64\Release\SolitaireSolver.application
 c:\users\shawn\google drive\visual studio 2013\Projects\SolitaireSolver\SolitaireSolver\obj\x64\Release\SolitaireSolver.exe
 c:\users\shawn\google drive\visual studio 2013\Projects\SolitaireSolver\SolitaireSolver\obj\x64\Release\SolitaireSolver.pdb
+C:\Users\Shawn\Github\SolitaireSolver\SolitaireSolver\bin\x64\Release\SolitaireSolver.exe.config
+C:\Users\Shawn\Github\SolitaireSolver\SolitaireSolver\obj\x64\Release\SolitaireSolver.exe
+C:\Users\Shawn\Github\SolitaireSolver\SolitaireSolver\obj\x64\Release\SolitaireSolver.pdb

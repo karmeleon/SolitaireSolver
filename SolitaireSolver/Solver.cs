@@ -10,7 +10,7 @@ using System.Diagnostics;
 
 namespace SolitaireSolver {
 	class Solver {
-		const int NumThreads = 16;
+		const int NumThreads = Environment.ProcessorCount * 4;	// seems to give reasonably good speed on my quad core i5
 		const int NumPriorities = 6;
 		const int MaxQueued = (int)1e+7;
 		// create queues
