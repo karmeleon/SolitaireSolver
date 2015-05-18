@@ -10,7 +10,7 @@ using System.Diagnostics;
 
 namespace SolitaireSolver {
 	class Solver {
-		const int NumThreads = Environment.ProcessorCount * 4;	// seems to give reasonably good speed on my quad core i5
+		static int NumThreads = Environment.ProcessorCount * 4;	// seems to give reasonably good speed on my quad core i5
 		const int NumPriorities = 6;
 		const int MaxQueued = (int)1e+7;
 		// create queues
@@ -34,7 +34,7 @@ namespace SolitaireSolver {
 
 		static void Main(string[] args) {
 			bool foundOne = false;
-			int seed = 0;
+			int seed = new Random().Next();
 			while(!foundOne) {
 				Console.WriteLine("Trying seed {0}", seed);
 				foundOne = SolveBoard(seed++);

@@ -12,3 +12,11 @@ c:\users\shawn\google drive\visual studio 2013\Projects\SolitaireSolver\Solitair
 C:\Users\Shawn\Github\SolitaireSolver\SolitaireSolver\bin\x64\Release\SolitaireSolver.exe.config
 C:\Users\Shawn\Github\SolitaireSolver\SolitaireSolver\obj\x64\Release\SolitaireSolver.exe
 C:\Users\Shawn\Github\SolitaireSolver\SolitaireSolver\obj\x64\Release\SolitaireSolver.pdb
+C:\Users\Shawn\Github\SolitaireSolver\SolitaireSolver\obj\x64\Release\SolitaireSolver.csprojResolveAssemblyReference.cache
+C:\Users\Shawn\Github\SolitaireSolver\SolitaireSolver\bin\x64\Release\SolitaireSolver.exe.manifest
+C:\Users\Shawn\Github\SolitaireSolver\SolitaireSolver\bin\x64\Release\SolitaireSolver.application
+C:\Users\Shawn\Github\SolitaireSolver\SolitaireSolver\bin\x64\Release\SolitaireSolver.exe
+C:\Users\Shawn\Github\SolitaireSolver\SolitaireSolver\bin\x64\Release\SolitaireSolver.pdb
+C:\Users\Shawn\Github\SolitaireSolver\SolitaireSolver\obj\x64\Release\SolitaireSolver.TrustInfo.xml
+C:\Users\Shawn\Github\SolitaireSolver\SolitaireSolver\obj\x64\Release\SolitaireSolver.exe.manifest
+C:\Users\Shawn\Github\SolitaireSolver\SolitaireSolver\obj\x64\Release\SolitaireSolver.application
