@@ -1,1 +1,0 @@
-C:\Users\Shawn\Github\SolitaireSolver\SolitaireSolver\bin\x64\Release\SolitaireSolver.exe.config
