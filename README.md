@@ -1,6 +1,6 @@
 # SolitaireSolver
 
-I wrote a program to generate and solve random games of Klondike solitaire. The first part works great, but the second part not so much. It's only able to solve one board: the one I made manually to test whether or not it can successfully solve anything. It's also possible that my shuffling and dealing system doesn't generate solveable games very often. Other than that it mostly works: it runs quickly, is multithreaded, and implements all the rules of Klondike correctly. I'm probably making some small error somewhere.
+I wrote a program to generate and solve random games of Klondike solitaire. It's not able to solve very many initial states, but there are a few that I've found so far that work. Like almost all the code I write, it's multithreaded to take advantage of as many cores as you have handy.
 
 Open in VS2013, compile, and run.
 
