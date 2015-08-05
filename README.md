@@ -4,4 +4,4 @@ I wrote a program to generate and solve random games of Klondike solitaire. It's
 
 Open in VS2013, compile, and run.
 
-Blog post [here](https://shawnwalton.github.io/2015/05/18/klondike/).
+Blog post [here](https://karmeleon.github.io/2015/05/18/klondike/).
